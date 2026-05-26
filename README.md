@@ -343,9 +343,12 @@ frontend/
 └── main.jsx
 ⚙️ Installation & Setup
 
-1️⃣ Clone Repository
+1️⃣ Clone Repository :
+
 git clone backend: https://github.com/AsaadNadeem/LMS-Pro-Backend-Full-Stack-Final-Project-Backend
+
 git clone frontend: https://github.com/AsaadNadeem/LMS-Pro-Frontend-Full-Stack-Final-Project-Frontend
+
 2️⃣ Backend Setup
 cd backend
 npm install
