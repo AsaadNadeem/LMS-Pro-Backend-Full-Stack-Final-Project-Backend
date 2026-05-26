@@ -131,6 +131,7 @@ Dotenv (Environment Variables)
 Cookie Parser
 
 👥 User Roles & Capabilities
+
 1️⃣ Admin
 
 View all users
@@ -212,6 +213,7 @@ Consistent ApiResponse wrapper
 MongoDB ObjectId validation
 
 🗄️ Database Design
+
 📌 User Schema
 
 name
@@ -340,6 +342,7 @@ frontend/
 ├── App.jsx
 └── main.jsx
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone backend: https://github.com/AsaadNadeem/LMS-Pro-Backend-Full-Stack-Final-Project-Backend
 git clone frontend: https://github.com/AsaadNadeem/LMS-Pro-Frontend-Full-Stack-Final-Project-Frontend
@@ -357,6 +360,7 @@ REFRESH_TOKEN_SECRET=your_refresh_secret
 Run server:
 
 npm run dev
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
